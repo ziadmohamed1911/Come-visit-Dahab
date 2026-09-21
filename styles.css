@@ -41,16 +41,16 @@ body {
 }
 
 .act-img {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
 }
 
 .act-title {
-    font-size: 12px
+    font-size: 16px
 }
 .act-parg {
-    font-size: 10px;
+    font-size: 14px;
 }
 
 #activites {
@@ -61,6 +61,10 @@ body {
 #act {
     background-color: #CDCAB7;
     padding: 10px 15px;
+}
+
+.activity{
+    width: 100px;
 }
 
 #act-hock {
