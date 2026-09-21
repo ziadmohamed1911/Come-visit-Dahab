@@ -64,13 +64,13 @@ body {
 }
 
 .activity{
-    width: 100px;
+    width: 150px;
 }
 
 #act-hock {
     color: #263428;
     font-size: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-shadow: 0px 0px 1px black;
 }
 
